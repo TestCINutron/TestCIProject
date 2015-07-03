@@ -30,7 +30,7 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            ext.betaDistributionEmails="kaw@appsynth.net, new@appsynth.net"
+            ext.betaDistributionEmails="kaw@appsynth.net, new@appsynth.net, pop@appsynth.net"
         }
     }
 }
